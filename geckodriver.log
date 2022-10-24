@@ -1,0 +1,831 @@
+1666016453630	geckodriver	INFO	Listening on 127.0.0.1:53512
+1666575307735	geckodriver	INFO	Listening on 127.0.0.1:50216
+1666575646828	geckodriver	INFO	Listening on 127.0.0.1:50335
+1666575834646	geckodriver	INFO	Listening on 127.0.0.1:50434
+1666576018421	geckodriver	INFO	Listening on 127.0.0.1:50727
+1666576067809	geckodriver	INFO	Listening on 127.0.0.1:50759
+1666576077572	geckodriver	INFO	Listening on 127.0.0.1:50773
+1666576080572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileQ7hLk8"
+1666576081071	Marionette	INFO	Marionette enabled
+1666576081078	Marionette	INFO	Listening on port 50789
+Read port: 50789
+WebDriver BiDi listening on ws://127.0.0.1:50774
+1666576081281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileQ7hLk8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50774/devtools/browser/bc353f57-c232-40d2-8d40-003ac600a643
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 183: TypeError: this._element is null
+1666576092642	Marionette	INFO	Stopped listening on port 50789
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666576106527	geckodriver	INFO	Listening on 127.0.0.1:51072
+1666576109533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileyYNQ65"
+1666576109944	Marionette	INFO	Marionette enabled
+1666576109948	Marionette	INFO	Listening on port 51084
+Read port: 51084
+WebDriver BiDi listening on ws://127.0.0.1:51073
+1666576110079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileyYNQ65\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51073/devtools/browser/0c229d07-0df4-45d5-bf45-2fa3f8a7af60
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 183: TypeError: this._element is null
+1666576114562	Marionette	INFO	Stopped listening on port 51084
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666576117349	geckodriver	INFO	Listening on 127.0.0.1:51134
+1666576120326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileeBoqjO"
+1666576120863	Marionette	INFO	Marionette enabled
+1666576120871	Marionette	INFO	Listening on port 51145
+Read port: 51145
+WebDriver BiDi listening on ws://127.0.0.1:51135
+1666576121080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileeBoqjO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51135/devtools/browser/e647d5fe-675d-4bb8-a6e1-c0bdedf1163b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666576984006	Marionette	INFO	Stopped listening on port 51145
+\\Temp\\rust_mozprofilelCLTng"
+1666576896659	Marionette	INFO	Marionette enabled
+1666576896666	Marionette	INFO	Listening on port 51587
+Read port: 51587
+WebDriver BiDi listening on ws://127.0.0.1:51573
+1666576896866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilelCLTng\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51573/devtools/browser/46a91814-6b3e-4262-aab5-5beb7b0654a9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666576981912	Marionette	INFO	Stopped listening on port 51587
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666576986403	geckodriver	INFO	Listening on 127.0.0.1:51691
+1666576989355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51692" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileox8HZv"
+1666576989913	Marionette	INFO	Marionette enabled
+1666576989921	Marionette	INFO	Listening on port 51703
+Read port: 51703
+WebDriver BiDi listening on ws://127.0.0.1:51692
+1666576990130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileox8HZv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51692/devtools/browser/09fbeb3e-5c94-48b7-bb12-589e3742bef9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666577726919	Marionette	INFO	Stopped listening on port 51703
+51807
+1666577060165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilevvmdjT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51807/devtools/browser/5a5a8e2e-1b04-4d46-b2bb-692f14e27124
+1666577316000	Marionette	INFO	Stopped listening on port 51816
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilecsuj2F"
+1666577101693	Marionette	INFO	Marionette enabled
+1666577101700	Marionette	INFO	Listening on port 52058
+Read port: 52058
+WebDriver BiDi listening on ws://127.0.0.1:52047
+1666577101902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilecsuj2F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52047/devtools/browser/a8c66727-1bdb-4ec5-802f-46555c695933
+1666577315340	Marionette	INFO	Stopped listening on port 52058
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilejNttnN"
+1666577187631	Marionette	INFO	Marionette enabled
+1666577187639	Marionette	INFO	Listening on port 52144
+Read port: 52144
+WebDriver BiDi listening on ws://127.0.0.1:52133
+1666577187813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilejNttnN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52133/devtools/browser/88396261-e517-4016-baad-f000af662b81
+1666577195281	Marionette	INFO	Stopped listening on port 52144
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666577460686	geckodriver	INFO	Listening on 127.0.0.1:52279
+1666577463653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52280" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilekKxlB0"
+1666577464259	Marionette	INFO	Marionette enabled
+1666577464269	Marionette	INFO	Listening on port 52289
+Read port: 52289
+WebDriver BiDi listening on ws://127.0.0.1:52280
+1666577464489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilekKxlB0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52280/devtools/browser/29e1206f-c049-47bb-9976-cbc6871bd8be
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+1666577475672	Marionette	INFO	Stopped listening on port 52289
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666577498802	geckodriver	INFO	Listening on 127.0.0.1:52368
+1666577501789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile0Mxs1L"
+1666577502280	Marionette	INFO	Marionette enabled
+1666577502288	Marionette	INFO	Listening on port 52382
+Read port: 52382
+WebDriver BiDi listening on ws://127.0.0.1:52369
+1666577502477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile0Mxs1L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52369/devtools/browser/cf8e9275-2f7f-4662-a254-cee028720843
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+1666577721656	Marionette	INFO	Stopped listening on port 52382
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52472" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileivSsfD"
+1666577530719	Marionette	INFO	Marionette enabled
+1666577530726	Marionette	INFO	Listening on port 52481
+Read port: 52481
+WebDriver BiDi listening on ws://127.0.0.1:52472
+1666577530908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileivSsfD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52472/devtools/browser/ab041a0c-fb61-47ef-947e-0a4f774b23f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+1666577721014	Marionette	INFO	Stopped listening on port 52481
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52570" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileYvnfkF"
+1666577566051	Marionette	INFO	Marionette enabled
+1666577566058	Marionette	INFO	Listening on port 52584
+Read port: 52584
+WebDriver BiDi listening on ws://127.0.0.1:52570
+1666577566262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileYvnfkF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52570/devtools/browser/a7def3c3-3454-4477-b8c7-c56c9d3c5487
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+1666577720167	Marionette	INFO	Stopped listening on port 52584
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileqP4Rjd"
+1666577593034	Marionette	INFO	Marionette enabled
+1666577593040	Marionette	INFO	Listening on port 52661
+Read port: 52661
+WebDriver BiDi listening on ws://127.0.0.1:52650
+1666577593175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileqP4Rjd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52650/devtools/browser/97de3715-46a0-4956-83c8-e163009e3da9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666577719564	Marionette	INFO	Stopped listening on port 52661
+1666577729354	geckodriver	INFO	Listening on 127.0.0.1:52810
+1666577732344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52811" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileMmyYad"
+1666577732890	Marionette	INFO	Marionette enabled
+1666577732897	Marionette	INFO	Listening on port 52822
+Read port: 52822
+WebDriver BiDi listening on ws://127.0.0.1:52811
+1666577733076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileMmyYad\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52811/devtools/browser/c97f2aae-2931-40de-935b-d6f661f82e7d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666578067655	Marionette	INFO	Stopped listening on port 52822
+\\Temp\\rust_mozprofilep16T6P"
+1666577895674	Marionette	INFO	Marionette enabled
+1666577895680	Marionette	INFO	Listening on port 52949
+Read port: 52949
+WebDriver BiDi listening on ws://127.0.0.1:52940
+1666577895871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilep16T6P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52940/devtools/browser/7fd54213-c9e7-4a25-b2ac-3680979bb0ac
+1666578063050	Marionette	INFO	Stopped listening on port 52949
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilewpdOv8"
+1666577922234	Marionette	INFO	Marionette enabled
+1666577922240	Marionette	INFO	Listening on port 53013
+Read port: 53013
+WebDriver BiDi listening on ws://127.0.0.1:53003
+1666577922420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilewpdOv8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53003/devtools/browser/eaa86d8a-0995-405e-b713-910cdcf55a46
+1666578062453	Marionette	INFO	Stopped listening on port 53013
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile44HetT"
+1666577945646	Marionette	INFO	Marionette enabled
+1666577945652	Marionette	INFO	Listening on port 53139
+Read port: 53139
+WebDriver BiDi listening on ws://127.0.0.1:53104
+1666577945812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile44HetT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53104/devtools/browser/3d612cde-d2c6-43eb-8625-2161a6532e0b
+1666577953365	Marionette	INFO	Stopped listening on port 53139
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666577989949	geckodriver	INFO	Listening on 127.0.0.1:53260
+1666577992939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofiletTTvAn"
+1666577993341	Marionette	INFO	Marionette enabled
+1666577993348	Marionette	INFO	Listening on port 53273
+Read port: 53273
+WebDriver BiDi listening on ws://127.0.0.1:53261
+1666577993507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofiletTTvAn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53261/devtools/browser/4f781033-003b-4d6a-a9ef-984352871611
+1666578061954	Marionette	INFO	Stopped listening on port 53273
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53346" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileSHq7rm"
+1666578021638	Marionette	INFO	Marionette enabled
+1666578021646	Marionette	INFO	Listening on port 53359
+Read port: 53359
+WebDriver BiDi listening on ws://127.0.0.1:53346
+1666578021844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileSHq7rm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53346/devtools/browser/07bad126-cad9-4b79-946d-8f1d9d042f4e
+1666578030400	Marionette	INFO	Stopped listening on port 53359
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666578040466	geckodriver	INFO	Listening on 127.0.0.1:53414
+1666578043404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilebS6v6q"
+1666578044031	Marionette	INFO	Marionette enabled
+1666578044042	Marionette	INFO	Listening on port 53426
+Read port: 53426
+WebDriver BiDi listening on ws://127.0.0.1:53415
+1666578044281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilebS6v6q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53415/devtools/browser/38cc6a8f-7a76-4ddd-ab4d-2beff9671674
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+1666578053163	Marionette	INFO	Stopped listening on port 53426
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666611657132	geckodriver	INFO	Listening on 127.0.0.1:58064
+1666611660119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilePcMW2Q"
+1666611660574	Marionette	INFO	Marionette enabled
+1666611660579	Marionette	INFO	Listening on port 58075
+Read port: 58075
+WebDriver BiDi listening on ws://127.0.0.1:58065
+1666611660726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilePcMW2Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58065/devtools/browser/0739f287-3a8e-4df2-ac62-061bdb2e9065
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sig.ifc.edu.br."
+1666612047624	Marionette	INFO	Stopped listening on port 58075
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666612050440	geckodriver	INFO	Listening on 127.0.0.1:55139
+1666612053477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55140" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile3AlJFW"
+1666612053820	Marionette	INFO	Marionette enabled
+1666612053825	Marionette	INFO	Listening on port 55150
+Read port: 55150
+WebDriver BiDi listening on ws://127.0.0.1:55140
+1666612053966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile3AlJFW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55140/devtools/browser/ab9183b2-c990-4a67-891c-9a19997a56bf
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666612824709	Marionette	INFO	Stopped listening on port 55150
+0.1:56734/devtools/browser/ee3e8a8e-b7c3-4483-8f46-8e30c5b4b3a4
+1666612304962	Marionette	INFO	Stopped listening on port 56745
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666612324960	geckodriver	INFO	Listening on 127.0.0.1:56804
+1666612327965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileK71c8p"
+1666612328310	Marionette	INFO	Marionette enabled
+1666612328315	Marionette	INFO	Listening on port 56817
+Read port: 56817
+WebDriver BiDi listening on ws://127.0.0.1:56805
+1666612328461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileK71c8p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56805/devtools/browser/83ce3771-db5c-451f-8421-31078d60c6cf
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666612824646	Marionette	INFO	Stopped listening on port 56817
+ipt warning: https://images-na.ssl-images-amazon.com/images/I/71jLD+iVN-L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71jLD+iVN-L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666612824373	Marionette	INFO	Stopped listening on port 58379
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileBFgdhl"
+1666612467205	Marionette	INFO	Marionette enabled
+1666612467210	Marionette	INFO	Listening on port 58527
+Read port: 58527
+WebDriver BiDi listening on ws://127.0.0.1:58517
+1666612467358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileBFgdhl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58517/devtools/browser/ee6cb011-9cf8-45d9-b127-24492254750b
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71jLD+iVN-L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71jLD+iVN-L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666612824379	Marionette	INFO	Stopped listening on port 58527
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63306" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilep3OOeD"
+1666612702471	Marionette	INFO	Marionette enabled
+1666612702476	Marionette	INFO	Listening on port 63316
+Read port: 63316
+WebDriver BiDi listening on ws://127.0.0.1:63306
+1666612702612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilep3OOeD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63306/devtools/browser/27566a69-cf51-460c-b311-1d70eb1aea75
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71jLD+iVN-L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71jLD+iVN-L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71jLD+iVN-L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71jLD+iVN-L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71jLD+iVN-L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1666612783517	Marionette	INFO	Stopped listening on port 63316
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666612785340	geckodriver	INFO	Listening on 127.0.0.1:64479
+1666612788336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64480" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileA0jdpJ"
+1666612788690	Marionette	INFO	Marionette enabled
+1666612788695	Marionette	INFO	Listening on port 64491
+Read port: 64491
+WebDriver BiDi listening on ws://127.0.0.1:64480
+1666612788827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileA0jdpJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64480/devtools/browser/60f23a7f-965e-47a8-b864-19899bd06d60
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71jLD+iVN-L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71jLD+iVN-L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666612824417	Marionette	INFO	Stopped listening on port 64491
+\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileNhh5Er"
+1666612808824	Marionette	INFO	Marionette enabled
+1666612808829	Marionette	INFO	Listening on port 54085
+Read port: 54085
+WebDriver BiDi listening on ws://127.0.0.1:54059
+1666612808966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileNhh5Er\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54059/devtools/browser/0283d241-a0c3-42eb-9671-41b1679462f8
+1666612819750	Marionette	INFO	Stopped listening on port 54085
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666612853227	geckodriver	INFO	Listening on 127.0.0.1:50440
+1666612856247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilenk0RNd"
+1666612856598	Marionette	INFO	Marionette enabled
+1666612856602	Marionette	INFO	Listening on port 50451
+Read port: 50451
+WebDriver BiDi listening on ws://127.0.0.1:50441
+1666612856748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilenk0RNd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50441/devtools/browser/bc4bc0b5-7428-4f34-a8af-e0a2743c2d7e
+1666612867419	Marionette	INFO	Stopped listening on port 50451
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666612873646	geckodriver	INFO	Listening on 127.0.0.1:64592
+1666612876674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64594" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile7VoC2R"
+1666612877026	Marionette	INFO	Marionette enabled
+1666612877031	Marionette	INFO	Listening on port 64604
+Read port: 64604
+WebDriver BiDi listening on ws://127.0.0.1:64594
+1666612877159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile7VoC2R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64594/devtools/browser/89b9ec53-a21e-4f09-80d8-9351c0f98e32
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71jLD+iVN-L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71jLD+iVN-L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666613121123	Marionette	INFO	Stopped listening on port 64604
+!!! error running onStopped callback: TypeError: callback is not a function
+ed
+1666613098455	Marionette	INFO	Listening on port 52511
+Read port: 52511
+WebDriver BiDi listening on ws://127.0.0.1:52501
+1666613098586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofiledECvsC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52501/devtools/browser/128454d2-fd0d-4776-83fc-7001d4345cc6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71jLD+iVN-L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71jLD+iVN-L.js?AUIClients/FWCIMAssets, line 289: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666614674464	Marionette	INFO	Stopped listening on port 52511
+tte	INFO	Marionette enabled
+1666613259641	Marionette	INFO	Listening on port 55622
+Read port: 55622
+WebDriver BiDi listening on ws://127.0.0.1:55612
+1666613259775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile8MlFoP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55612/devtools/browser/d45ce643-2b48-44bb-83ec-bade89b0ed11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666614675712	Marionette	INFO	Stopped listening on port 55622
+0.1:58001/devtools/browser/5d38b670-f076-46e3-aa28-9df292f38761
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 698"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:698:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:542:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:445:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:409:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2149:35
+addAllSources@resource://devtools/server/actors/thread.js:1481:14
+watch@resource://devtools/server/actors/resources/sources.js:76:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:44:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 698, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 698"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:698:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:542:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:445:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:409:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2149:35
+addAllSources@resource://devtools/server/actors/thread.js:1481:14
+watch@resource://devtools/server/actors/resources/sources.js:76:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:44:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 698, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 698"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:698:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:542:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:445:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:409:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2149:35
+addAllSources@resource://devtools/server/actors/thread.js:1481:14
+watch@resource://devtools/server/actors/resources/sources.js:76:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:44:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 698, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 698: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 698: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 698: Failed to open input source 'file:///'
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: ({})
+console.error: "Unable to find target with innerWindowId:4294967318"
+console.error: "Unable to find target with innerWindowId:4294967318"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666615674188	Marionette	INFO	Stopped listening on port 58030
+stener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666615675657	Marionette	INFO	Stopped listening on port 54463
+1666615676373	geckodriver	INFO	Listening on 127.0.0.1:64351
+1666615679398	mozrunner::runner	INFO	Running command: "C:\\P1666615681955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileh5wfCN"
+1666615682319	Marionette	INFO	Marionette enabled
+1666615682324	Marionette	INFO	Listening on port 64400
+Read port: 64400
+WebDriver BiDi listening on ws://127.0.0.1:64359
+1666615682476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileh5wfCN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6console.warn: LoginRecipes: "Falling back to a synchronous mconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1666617875094	Marionette	INFO	Stopped listening on port 64400
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 19688, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+VAILABLE
+1666617873804	Marionette	INFO	Stopped listening on port 64366
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile21Rzup"
+1666616928813	Marionette	INFO	Marionette enabled
+1666616928818	Marionette	INFO	Listening on port 53659
+Read port: 53659
+WebDriver BiDi listening on ws://127.0.0.1:53649
+1666616928945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile21Rzup\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53649/devtools/browser/0d3860c7-df9c-4505-bcef-4c2a77f1aaa8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1666617876398	Marionette	INFO	Stopped listening on port 53659
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile1u3ChS"
+1666616961006	Marionette	INFO	Marionette enabled
+1666616961011	Marionette	INFO	Listening on port 52249
+Read port: 52249
+WebDriver BiDi listening on ws://127.0.0.1:52240
+1666616961144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile1u3ChS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52240/devtools/browser/f1154040-07a8-4908-96e7-d3fb7607bd92
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666620695784	Marionette	INFO	Stopped listening on port 52249
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1666620696795	Marionette	INFO	Stopped listening on port 54506
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51681" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileGNoHak"
+1666617520045	Marionette	INFO	Marionette enabled
+1666617520050	Marionette	INFO	Listening on port 51691
+Read port: 51691
+WebDriver BiDi listening on ws://127.0.0.1:51681
+1666617520204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileGNoHak\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51681/devtools/browser/33f08407-2c82-43b0-917e-e1d0a9ccbe96
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zmeOo8ONk1YqWYD8DpPjl7c0n4Y1CeYWRiKSJrvfmvk.js line 2 > eval line 4644 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zmeOo8ONk1YqWYD8DpPjl7c0n4Y1CeYWRiKSJrvfmvk.js line 2 > eval line 3184 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1666620693368	Marionette	INFO	Stopped listening on port 51691
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilenveAYT"
+1666617656323	Marionette	INFO	Marionette enabled
+1666617656330	Marionette	INFO	Listening on port 62520
+Read port: 62520
+WebDriver BiDi listening on ws://127.0.0.1:62509
+1666617656491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilenveAYT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62509/devtools/browser/93951f2e-8686-44b6-a251-5b0c1a3b66a7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666619345878	Marionette	INFO	Stopped listening on port 62520
+onous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1666619346500	Marionette	INFO	Stopped listening on port 54957
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilewzWzGX"
+1666619300512	Marionette	INFO	Marionette enabled
+1666619300517	Marionette	INFO	Listening on port 53192
+Read port: 53192
+WebDriver BiDi listening on ws://127.0.0.1:53183
+1666619300643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilewzWzGX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53183/devtools/browser/9996bb5d-4ebb-4e5d-86dc-70b25fd7aecd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1666619347589	Marionette	INFO	Stopped listening on port 53192
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53750" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileEiMzaF"
+1666619343793	Marionette	INFO	Marionette enabled
+1666619343799	Marionette	INFO	Listening on port 53760
+Read port: 53760
+WebDriver BiDi listening on ws://127.0.0.1:53750
+1666619343942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileEiMzaF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53750/devtools/browser/6d059e2c-e77e-4985-be0c-c79b339836f1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1666619435600	Marionette	INFO	Stopped listening on port 53760
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile6VRfN7"
+1666619383531	Marionette	INFO	Marionette enabled
+1666619383536	Marionette	INFO	Listening on port 51522
+Read port: 51522
+WebDriver BiDi listening on ws://127.0.0.1:51512
+1666619383664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile6VRfN7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51512/devtools/browser/322dcac4-4175-456e-9cd4-87115e7eaf59
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1666619434831	Marionette	INFO	Stopped listening on port 51521666619435249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54862" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileWlPK6v"
+1666619435740	Marionette	INFO	Marionette enabled
+1666619435748	Marionette	INFO	Listening on port 54878
+Read port: 54878
+WebDriver BiDi listening on ws://127.0.0.1:54862
+1666619435966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileWlPK6v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54862/devtools/browser/dac1a4c3-aa42-476f-a24e-420097dea97a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1666619714008	Marionette	INFO	Stopped listening on port 54878
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilegzc3oE"
+1666619694550	Marionette	INFO	Marionette enabled
+1666619694555	Marionette	INFO	Listening on port 55285
+Read port: 55285
+WebDriver BiDi listening on ws://127.0.0.1:55271
+1666619694691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilegzc3oE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55271/devtools/browser/e34b7e1f-17b7-42cc-85e6-fbf0c28a5832
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1666619711896	geckodriver	INFO	Listening on 127.0.0.1:59222
+1666619714896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileOfkrkm"
+1666619715338	Marionette	INFO	Marionette enabled
+1666619715342	Marionette	INFO	Listening on port 59236
+WebDriver BiDi listening on ws://127.0.0.1:59223
+Read port: 59236
+1666619715555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileOfkrkm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59223/devtools/browser/9f90f593-6181-4dd4-948e-acd7ad50225d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1666620190790	Marionette	INFO	Stopped listening on port 59236
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58539" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileQPDmmB"
+1666619768005	Marionette	INFO	Marionette enabled
+1666619768012	Marionette	INFO	Listening on port 58549
+Read port: 58549
+WebDriver BiDi listening on ws://127.0.0.1:58539
+1666619768152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileQPDmmB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58539/devtools/browser/23da37a4-4195-4d84-b992-3a4602d8cbc5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1666619782658	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666620189361	Marionette	INFO	Stopped listening on port 58549
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 19304, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\Local\\Temp\\rust_mozprofileQM8H7g"
+1666619995262	Marionette	INFO	Marionette enabled
+1666619995267	Marionette	INFO	Listening on port 60584
+Read port: 60584
+WebDriver BiDi listening on ws://127.0.0.1:60574
+1666619995413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofileQM8H7g\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60574/devtools/browser/ce19158b-9f4e-4078-899c-baa8cb3d15d7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1666620188744	Marionette	INFO	Stopped listening on port 60584
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilex5WyaK"
+1666620172516	Marionette	INFO	Marionette enabled
+1666620172522	Marionette	INFO	Listening on port 55345
+Read port: 55345
+WebDriver BiDi listening on ws://127.0.0.1:55335
+1666620172660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilex5WyaK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55335/devtools/browser/23651af7-8f20-41a4-9549-f4dd8640327e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1666620181607	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1666620182749	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666620185478	geckodriver	INFO	Listening on 127.0.0.1:55479
+1666620188465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55480" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilejAuOyH"
+1666620188991	Marionette	INFO	Marionette enabled
+1666620189000	Marionette	INFO	Listening on port 55497
+Read port: 55497
+WebDriver BiDi listening on ws://127.0.0.1:55480
+1666620189159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofilejAuOyH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55480/devtools/browser/1223a3b6-7152-4610-a485-a479084dc05f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1666620209353	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666620692485	Marionette	INFO	Stopped listening on port 55497
+1666655240144	geckodriver	INFO	Listening on 127.0.0.1:51276
+1666655243135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51277" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile74rZPj"
+1666655243778	Marionette	INFO	Marionette enabled
+1666655243783	Marionette	INFO	Listening on port 51287
+Read port: 51287
+WebDriver BiDi listening on ws://127.0.0.1:51277
+1666655243945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RENAN~1.OKA\\AppData\\Local\\Temp\\rust_mozprofile74rZPj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51277/devtools/browser/684ffeb9-34ed-4530-bfb2-2379b51806a8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/568fMfmsPhabDhBQKM56ETVW7wyafyuYtNw47YmmG7Q.js line 2 > eval line 4795 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1666655259096	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666655266384	Marionette	INFO	Stopped listening on port 51287
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
