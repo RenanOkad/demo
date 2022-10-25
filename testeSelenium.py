@@ -38,9 +38,9 @@ localizou = False
 
 #SEÇÃO DE LOGIN
 contas_element = browser.find_element(By.CSS_SELECTOR, contas_path).click()
-email_element = browser.find_element(By.CSS_SELECTOR, email_path).send_keys('renanokada2000@gmail.com')
+email_element = browser.find_element(By.CSS_SELECTOR, email_path).send_keys('')#Email Amazon
 continue_element = browser.find_element(By.CSS_SELECTOR, continue_email_path).click()
-password_elemnt = browser.find_element(By.CSS_SELECTOR, password_path).send_keys('Fabiodinha@2014')
+password_elemnt = browser.find_element(By.CSS_SELECTOR, password_path).send_keys('')#Senha Amazon
 login_element = browser.find_element(By.CSS_SELECTOR, login_path).click()
 
 
