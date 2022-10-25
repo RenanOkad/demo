@@ -1,6 +1,9 @@
 from multiprocessing.connection import wait
 import os
 import selenium.webdriver as webdriver
+import mysql.connector
+from mysql.connector import Error
+
 from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
@@ -45,21 +48,58 @@ login_element = browser.find_element(By.CSS_SELECTOR, login_path).click()
 pesquisa_element = browser.find_element(By.CSS_SELECTOR, pesquisa_path).send_keys('Hot Wheels')
 botaoPesquisa_element = browser.find_element(By.CSS_SELECTOR, botaoPesquisa_path).click()
 
-itemSelect_element = browser.find_element(By.CSS_SELECTOR,
-     '.widgetId\=search-results_'+str(1)+' > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1) > div:nth-child(1) > img:nth-child(1)').click()
 
+#----- Armazenar no banco essas informações
 
-#Pegar o ID do produto
-urlASIM = browser.current_url
+try:
+     con = mysql.connector.connect(host='localhost', database='delivery_laravel', user ='root', password = '12345678')
+     cursorDelete = con.cursor()
 
-indx = 0
-for index, j in enumerate(urlASIM.split('/')):
-    if j == 'dp':
-     indx = index
-     
+     cursorDelete.execute('DELETE FROM amazons where id >0;')
 
-urlSeparada = urlASIM.split('/')
-urlSeparada[indx+1]
+     for x in range(4):
+          itemSelect_element = browser.find_element(By.CSS_SELECTOR,
+          '.widgetId\=search-results_'+str(x+1)+' > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1) > div:nth-child(1)').click()
 
+          #Pegar URL atual
+          urlASIM = browser.current_url
 
+          #Pegar o ID do produto
+          indx = 0
+          for index, j in enumerate(urlASIM.split('/')):
+               if j == 'dp':
+                indx = index
+
+          urlSeparada = urlASIM.split('/')
+
+          #Produto Código
+          urlSeparada[indx+1]
+          #TituloProduto
+          titulo_produto = browser.find_element(By.CSS_SELECTOR, '#productTitle').text
+          #PreçoProduto
+          preco_produto = browser.find_element(By.CSS_SELECTOR, 'div.a-spacing-micro:nth-child(1) > span:nth-child(1) > span:nth-child(2) > span:nth-child(2)').text
+          #----- Até aqui
+
+          inserir_produtos = ' INSERT INTO `amazons` (`titulo`, `preco`, `link`, `produto_codigo`) VALUES (\''+str(titulo_produto)+'\',\''+str(preco_produto)+'\',\''+str(urlASIM)+'\',\''+str(urlSeparada[indx+1])+'\')'
+
+          cursor = con.cursor()
+          cursor.execute(inserir_produtos)
+          con.commit()
+          print(cursor.rowcount, "registros inseridos na tabela!")
+          cursor.close()
+
+          print('URL Atual: '+urlASIM)
+          print('ID do Produto: '+ urlSeparada[indx+1])
+          print('Titulo: '+titulo_produto)
+          print('Preço:'+preco_produto)
+
+          browser.back()
+
+except Error as erro:
+     print("Falha ao inserir dados no Mysql: {}".format(erro))
+finally:
+     if(con.is_connected()):
+          cursor.close()
+          con.close()
+          print("Conexão ao MYSQL finalizada")
 
